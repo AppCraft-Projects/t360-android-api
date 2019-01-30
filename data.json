@@ -1,0 +1,91 @@
+[
+    {
+        "id": 0,
+        "avatar": "clooney_avatar.png",
+        "name": "György",
+        "rating": 4,
+        "job": "Informatikus",
+        "age": 27,
+        "introduction": "Arra gondoltam, hogy valami jó olaszos kaja ki tudja hozni az emberek valódi énjét.\n\nSzóval... bedobhatnánk egy pizzát valamikor, szerintem az egészen király lenne.\n\nCiao!",
+        "images": [
+            "clooney2.png",
+            "clooney3.png"
+        ],
+        "lastLocation": {
+            "latitude": 52.232357,
+            "longitude": 21.152927
+        },
+        "owner": "noone@gmail.com"
+    },
+    {
+        "id": 1,
+        "avatar": "henry_cavill_avatar.jpg",
+        "name": "Henrik",
+        "rating": 5,
+        "job": "Színész",
+        "age": 37,
+        "introduction": "Jelenleg itt élek Magyarországon, mivel éppen itt forgatjuk a Witcher-t a Netflixnek.\n\nMagyarul csak egy kicsit beszélek. Szeretem a marhapörköltet és a pálinkát is.\n\nSee you.",
+        "images": [
+            "henry_cavill_1.jpg",
+            "henry_cavill_2.jpg",
+            "henry_cavill_3.jpg"
+        ],
+        "lastLocation": {
+            "latitude": 52.231621,
+            "longitude": 21.16151
+        },
+        "owner": "noone@gmail.com"
+    },
+    {
+        "id": 2,
+        "avatar": "jason_momoa_avatar.jpg",
+        "name": "Dzsézön",
+        "rating": 5,
+        "job": "Uralkodó",
+        "age": 33,
+        "introduction": "Szeretek úszni, a lovakat is szeretem.\n\nNagy gyengémnek számít a már-már szürke jellegű szőke hajú hölgyeket, akik vékonyak és alacsonyak, ja és persze fiatalok.",
+        "images": [
+            "jason_momoa_1.jpg",
+            "jason_momoa_2.jpg"
+        ],
+        "lastLocation": {
+            "latitude": 52.228782,
+            "longitude": 21.156188
+        },
+        "owner": "noone@gmail.com"
+    },
+    {
+        "id": 3,
+        "avatar": "bradley_cooper_avatar.jpg",
+        "name": "Bradley",
+        "rating": 3,
+        "job": "Mesterlövész",
+        "age": 35,
+        "introduction": "Alapvetően mesterlövész vagyok, meg másnapos, de mostanában musicalekben is szereplek.\n\n Wannabe kémikus is vagyok.",
+        "images": [
+            "bradley_cooper_1.jpg"
+        ],
+        "lastLocation": {
+            "latitude": 52.234459,
+            "longitude": 21.157905
+        },
+        "owner": "noone@gmail.com"
+    },
+	{
+    "id": 4,
+    "age": 50,
+    "avatar": "JPEG_20190119_015323_8046049484379919187.jpg",
+    "images": [
+      "JPEG_20190119_015323_8046049484379919187.jpg"
+    ],
+    "introduction": "zbzbhzbsxxhshhssh xnxxnnxnnxnzndnznxnxnxnxnxnxxnxnxnxnxnxnxxn",
+    "job": "Vsvsgsh",
+    "lastLocation": {
+      "latitude": 52.22210166666667,
+      "longitude": 21.01197666666667
+    },
+    "name": "Tibor Molnár",
+    "owner": "motibi89@gmail.com",
+    "rating": 5
+  }
+]
